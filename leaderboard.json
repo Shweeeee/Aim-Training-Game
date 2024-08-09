@@ -1,0 +1,38 @@
+[
+    {
+        "player": "Jp1",
+        "time": "00:11.8",
+        "hits": 18,
+        "accuracy": 100.0
+    },
+    {
+        "player": "Sree1",
+        "time": "00:11.7",
+        "hits": 17,
+        "accuracy": 100.0
+    },
+    {
+        "player": "Anonymous",
+        "time": "00:09.3",
+        "hits": 12,
+        "accuracy": 92.3
+    },
+    {
+        "player": "Sree",
+        "time": "00:09.7",
+        "hits": 12,
+        "accuracy": 100.0
+    },
+    {
+        "player": "Sre",
+        "time": "00:08.5",
+        "hits": 11,
+        "accuracy": 100.0
+    },
+    {
+        "player": "Sre",
+        "time": "00:09.9",
+        "hits": 11,
+        "accuracy": 100.0
+    }
+]
